@@ -1,5 +1,5 @@
 <div align="center">
-### *Hello, welcome!* :smiling_face_with_three_hearts:
+Hello, welcome! :smiling_face_with_three_hearts:
     </div>
 <div align="center">
     <a href="https://github.com/yaradonato">
